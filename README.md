@@ -4,25 +4,11 @@
 
 理发日历生成器是一个Python项目，用于根据农历日期生成从指定起始年份到结束年份的理发吉日日历，并输出为ICS文件格式，方便用户在iOS设备上订阅。该项目基于传统的理发吉日理念，通过农历日期判断每一天理发的吉凶，并生成相应的日历事件。
 
-#### 安装指南
-
-1. 克隆仓库到本地
-```bash
-git clone https://github.com/your-username/haircut-calendar-generator.git
-cd haircut-calendar-generator
-```
-
-2. 安装依赖
-确保你的系统已安装Python 3。安装所需的Python包：
-```bash
-pip install -r requirements.txt
-```
-
 #### 使用说明
 
 1. 运行脚本并输入起止年份：
 ```bash
-python generate_haircut_calendar.py
+python haircut_ics_creator.py
 ```
 按照提示输入起始年份和结束年份。
 
