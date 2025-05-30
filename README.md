@@ -35,7 +35,7 @@ python haircut_ics_creator.py
 3. 为了方便地在iOS设备上订阅，请使用以下链接：
 
 ```
-https://raw.githubusercontent.com/Prometheus-INTJ/Haircut-Calendar/main/haircut_calendar.ics
+https://raw.githubusercontent.com/Doraemon-Labs/Haircut-Calendar/main/haircut_calendar.ics
 ```
 
 在iOS设备上订阅日历的步骤：
